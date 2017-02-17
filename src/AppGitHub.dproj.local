@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2015/05/30 22:53:04.000.151,=C:\Users\Brendon\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2015/06/04 16:38:35.000.857,=C:\Users\Brendon\Documents\Embarcadero\Studio\Projects\GridPaneView1.pas</Transaction>
+    <Transaction>2015/06/04 16:38:37.000.299,=C:\Users\Brendon\Documents\Embarcadero\Studio\Projects\SplitPaneView1.pas</Transaction>
+    <Transaction>2016/07/26 16:30:48.000.477,=C:\Users\Brendon\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2016/07/26 16:45:43.000.838,=C:\Users\Brendon\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2016/07/26 16:57:40.000.511,=C:\Users\Brendon\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2017/02/15 16:40:22.000.995,=C:\Users\Brendon\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2017/02/15 16:44:40.000.697,C:\Users\Brendon\Documents\Embarcadero\Studio\Projects\Unit2.fmx=C:\Users\Brendon\Desktop\Test Mobile\untFrmPrincipal.fmx</Transaction>
+    <Transaction>2017/02/15 16:44:40.000.697,C:\Users\Brendon\Documents\Embarcadero\Studio\Projects\Unit2.pas=C:\Users\Brendon\Desktop\Test Mobile\untFrmPrincipal.pas</Transaction>
+    <Transaction>2017/02/15 16:44:57.000.292,C:\Users\Brendon\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Brendon\Desktop\Test Mobile\AppGitHub.dproj</Transaction>
+    <Transaction>2017/02/15 16:55:15.000.706,=C:\Users\Brendon\Desktop\Test Mobile\untDadosAPIGitHub.pas</Transaction>
+    <Transaction>2017/02/15 16:59:55.000.093,=C:\Users\Brendon\Desktop\Test Mobile\untProjetoClass.pas</Transaction>
+    <Transaction>2017/02/15 17:53:57.000.083,=C:\Users\Brendon\Desktop\Test Mobile\Unit1.pas</Transaction>
+    <Transaction>2017/02/15 17:56:12.000.700,C:\Users\Brendon\Desktop\Test Mobile\Unit1.fmx=C:\Users\Brendon\Desktop\Test Mobile\untFrmProjetos.fmx</Transaction>
+    <Transaction>2017/02/15 17:56:12.000.700,C:\Users\Brendon\Desktop\Test Mobile\Unit1.pas=C:\Users\Brendon\Desktop\Test Mobile\untFrmProjetos.pas</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile Android="0026321681"/>
+	</ActiveMobileDevice>
+</BorlandProject>

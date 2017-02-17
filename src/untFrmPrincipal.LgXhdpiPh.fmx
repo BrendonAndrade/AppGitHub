@@ -1,0 +1,34 @@
+inherited frmPrincipal_LgXhdpiPh: TfrmPrincipal_LgXhdpiPh
+  ClientHeight = 695
+  ClientWidth = 450
+  DesignerMasterStyle = 3
+  inherited Layout1: TLayout
+    Size.Width = 450.000000000000000000
+    Size.Height = 695.000000000000000000
+    inherited ScaledLayout1: TScaledLayout
+      OriginalWidth = 450.000000000000000000
+      OriginalHeight = 695.000000000000000000
+      Size.Width = 450.000000000000000000
+      Size.Height = 695.000000000000000000
+      inherited TabControl1: TTabControl
+        Size.Width = 450.000000000000000000
+        Size.Height = 695.000000000000000000
+        Sizes = (
+          450s
+          646s)
+        inherited TabItem1: TTabItem
+          AutoSize = False
+          Size.Width = 450.000000000000000000
+          ExplicitSize.cx = 450.000000000000000000
+          ExplicitSize.cy = 49.000000000000000000
+          inherited Grade: TStringGrid
+            Size.Width = 450.000000000000000000
+            Size.Height = 646.000000000000000000
+            Viewport.Width = 450.000000000000000000
+            Viewport.Height = 614.000000000000000000
+          end
+        end
+      end
+    end
+  end
+end
